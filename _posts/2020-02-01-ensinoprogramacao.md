@@ -1,3 +1,10 @@
+---
+  layout: post
+  title: Markdown 
+  subtitle: Usando Markdown
+  tags: [markdown]
+---
+
 # Ensino de Programação
 
 Cada vez mais o mundo esta mais dependente dos computadores e as iniciativas de ensino de programação nas escolas vem aumentando.Tenho lecionado a disciplina de Lógica de programação e vejo esforço dos alunos em entender alguns conceitos. Acredito que as vezes parecem tão simples que os mesmos não acreditam que seja só isso. Tenho adotado nas aulas, sempre que possível, ferramentas lúdicas. O resultado dentro da ferramenta sempre me surpreende, aplicam estruturas de repetição e decisão para resolver os problemas. Quando vamos formalizar o conceito acredito que fica mais simples.
