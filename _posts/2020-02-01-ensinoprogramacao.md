@@ -1,8 +1,8 @@
 ---
   layout: post
-  title: Markdown 
-  subtitle: Usando Markdown
-  tags: [markdown]
+  title: Ensino de Programação 
+  subtitle: Caminho para aprender programção 
+  tags: [programação]
 ---
 
 # Ensino de Programação
