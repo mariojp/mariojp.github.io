@@ -4,7 +4,7 @@ title: Publicando com o GitHub Pages
 subtitle: Uma forma simples de publicar um site utilizando o Github Pages. 
 tags: [ghpages,github,githubpages,pages]
 gh-repo: mariojp/page-sample
-gh-badge: [githubpage]
+gh-badge: [markdown]
 comments: true
 ---
 
