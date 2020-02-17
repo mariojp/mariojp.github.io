@@ -98,7 +98,7 @@ url-pretty: "mariojp.com.br"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
+gtag: "G-D0C92NC6MW"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""
