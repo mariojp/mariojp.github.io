@@ -22,8 +22,13 @@ description: Dev, Professor, Pai e Empreendedor.
 navbar-links:
   Sobre: "aboutme"
   Disciplinas:
-    - Programação Orientada a Objetos : "oo202001"
-    - Programação Web: "pw202001"
+    - Programação Web: "dpw20201"
+    - Programação Orientada a Objetos : "doo20201"
+    - Programação Orientada a Objetos Avançada : "dooa20201"
+    - Programação Para Dispositivos Moveis: "ddm20201"
+    - Projeto Integrador : "dpi20201"
+
+
   #Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
