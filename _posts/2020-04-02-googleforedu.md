@@ -6,7 +6,7 @@
   tags: [ensino,ensinoadistancia,educadores,escolas]
 ---
 
-# Ensino de Programação
+# A google disponibiliza uma ferramenta para apoiar e promover o ensino.
 
 A google disponibiliza uma ferramenta para apoiar e promover o ensino.
 
