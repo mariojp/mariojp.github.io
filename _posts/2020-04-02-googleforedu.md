@@ -1,8 +1,8 @@
 ---
   layout: post
-  title: google disponibiliza uma ferramenta para apoiar e promover o ensino 
+  title: Google disponibiliza uma ferramenta para apoiar e promover o ensino 
   subtitle: Essa plataforma que contempla um portal, aplicativo e outras possibilidades e é oferecido gratuitamente a instituições de ensino.
-  image: /img/g1.png
+  bigimg: /img/g1.png
   tags: [ensino,ensinoadistancia,educadores,escolas]
 ---
 
