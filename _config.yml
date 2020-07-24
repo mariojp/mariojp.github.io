@@ -103,13 +103,13 @@ url-pretty: "mariojp.com.br"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-gtag: "G-D0C92NC6MW"
+gtag: "G-DJLG00Y8HW"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""
 
 # Google Tag Manager ID
-#gtm: ""
+#gtm: "G-DJLG00Y8HW"
 
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
