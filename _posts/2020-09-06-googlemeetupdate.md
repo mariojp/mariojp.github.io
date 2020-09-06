@@ -26,3 +26,4 @@ Os recursos estão previstos para os proximos 15 dias.
 Caso não consiga ver depois desse periodo verifique se sua conta faz parte de um dos grupos:
 - Disponível para todos os clientes do G Suite for Education e G Suite Enterprise for Education
 - Não disponível para clientes do G Suite Essentials, G Suite Basic, G Suite Business, G Suite Enterprise e G Suite para organizações sem fins lucrativos
+  
