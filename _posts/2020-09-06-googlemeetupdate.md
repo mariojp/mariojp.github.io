@@ -1,6 +1,6 @@
 ---
   layout: post
-  title: Novidade no google meet, Mais controle para o organizador da Reunião.
+  title: Novidade no google meet, mais controle para o organizador da Reunião.
   subtitle: O google está adicinando novos recursos para o organizador da reunião.
   tags: [google meet, update]
 ---
