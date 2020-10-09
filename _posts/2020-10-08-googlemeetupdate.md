@@ -7,8 +7,6 @@
 
 # Aumente o envolvimento com perguntas e respostas 
 
-Aumente o envolvimento com perguntas e respostas e pesquisas no Google Meet
-
 A partir de 8 de outubro, foi lançada um funcionalidade que permite a criação de perguntas e respostas sem interromper o fluxo da reunião.
 
 ![Q&A no Meet ](https://1.bp.blogspot.com/-Q0ELqPUZ3KM/X3X5M5uKnvI/AAAAAAAAJQs/jHk6hFcjtMMuUcWq_fyaLAWMY64Ox3jgwCLcBGAsYHQ/w640-h400/Q%2526A%2Bparticipant.png){: .center-block :}
