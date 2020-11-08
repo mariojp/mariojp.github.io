@@ -89,7 +89,7 @@ body {
   <input type="text" id="matricula" class="form-control" placeholder="Matricula" value="82211728" required autofocus>
   <button id="enviar" onclick="resultado()" class="btn btn-lg btn-primary btn-block" type="button">Enviar</button>
   
-  <div class="card">
+  <div id="cardresult" class="card">
     <div class="card-header"> <span id="titulo"> </span>
   </div>
   <ul class="list-group list-group-flush">
@@ -105,6 +105,8 @@ body {
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
 
     <script>
+      $("#cardresult").hide();
+
       function resultado(){
          console.log($('#matricula').val());
         fetch('https://cmssa.herokuapp.com/resultados/'+$('#matricula').val())
@@ -113,9 +115,12 @@ body {
           })
           .then((data) => {
             // Work with JSON data here
+            $("#cardresult").show();
             $("#titulo").text($('#matricula').val());
             $("#matematica").text(data.matematica);
-
+            $("#portugues").text(data.portugues);
+            $("#media").text(data.media);
+            $("#situacao").text(data.situacao);
             console.log(data)
           })
           .catch((err) => {
