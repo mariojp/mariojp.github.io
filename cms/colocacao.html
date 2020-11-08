@@ -86,11 +86,10 @@ body {
     <form class="form-signin">
   <h1 class="h3 mb-3 font-weight-normal">RESULTADO CMS</h1>
   <label for="matricula" class="sr-only">Matricula</label>
-  <input type="text" id="matricula" class="form-control" placeholder="Matricula" required autofocus>
+  <input type="text" id="matricula" class="form-control" placeholder="Matricula" value="82211728" required autofocus>
   <button id="enviar" onclick="resultado()" class="btn btn-lg btn-primary btn-block" type="button">Enviar</button>
-</form>
-
-    <div class="card" style="width: 18rem;">
+  
+  <div class="card" style="width: 18rem;">
   <div class="card-header">
     Featured
   </div>
@@ -100,6 +99,9 @@ body {
     <li class="list-group-item">Vestibulum at eros</li>
   </ul>
 </div>
+</form>
+
+
 
     
     
@@ -108,7 +110,8 @@ body {
 
     <script>
       function resultado(){
-        fetch('https://cmssa.herokuapp.com/resultados/82211728')
+         console.log($('#matricula').value)
+        fetch('https://cmssa.herokuapp.com/resultados/'+$('#matricula').value)
           .then((response) => {
             return response.json()
           })
