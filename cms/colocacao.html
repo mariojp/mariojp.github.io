@@ -110,8 +110,8 @@ body {
 
     <script>
       function resultado(){
-         console.log($('#matricula').value)
-        fetch('https://cmssa.herokuapp.com/resultados/'+$('#matricula').value)
+         console.log($('#matricula').val());
+        fetch('https://cmssa.herokuapp.com/resultados/'+$('#matricula').val())
           .then((response) => {
             return response.json()
           })
