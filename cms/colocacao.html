@@ -114,7 +114,7 @@ body {
           .then((data) => {
             // Work with JSON data here
             $("#titulo").text($('#matricula').val());
-            $("#matematica").text(data.matematica).val());
+            $("#matematica").text(data.matematica));
 
             console.log(data)
           })
