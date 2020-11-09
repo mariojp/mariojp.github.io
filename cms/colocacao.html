@@ -93,10 +93,15 @@ body {
     <div class="card-header"> <span id="titulo"> </span>
   </div>
   <ul class="list-group list-group-flush">
-    <li class="list-group-item">Matematica: <span id="matematica"> </span> </li>
-    <li class="list-group-item">Portugues: <span id="portugues"> </span></li>
-    <li class="list-group-item">Media: <span id="media"> </span></li>
-    <li class="list-group-item">Situacao: <span id="situacao"> </span></li>
+    <li class="list-group-item">Matematica: <span id="matematica"> </span> / 12 </li>
+    <li class="list-group-item">Portugues: <span id="portugues"> </span> / 12 </li>
+    <li class="list-group-item">Media: <span id="media"> </span> </li>
+    <li class="list-group-item">Situacao: <span id="situacao"></span> </li>
+    <li class="list-group-item">Total de Inscritos: 839</li>
+    <li class="list-group-item">Total de Ausentes: 80</li>
+    <li class="list-group-item">Media Geral: 4,17</li>
+    <li class="list-group-item">Media Geral Matematica: 4,17</li>
+    <li class="list-group-item">Media Geral Portugues: 6,76</li>
   </ul>
 </div>
 </form>    
@@ -116,7 +121,7 @@ body {
           .then((data) => {
             // Work with JSON data here
             $("#cardresult").show();
-            $("#titulo").text($('#matricula').val());
+            $("#titulo").text(data.nome);
             $("#matematica").text(data.matematica);
             $("#portugues").text(data.portugues);
             $("#media").text(data.media);
