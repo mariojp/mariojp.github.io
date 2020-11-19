@@ -16,7 +16,7 @@ umas às outras.
 
 Para levantar a mão no Meet, clique no botão “Levantar a mão” na barra inferior durante a reunião. 
 Assim que o botão for pressionado, ele mudará para um botão “Abaixar a mão”, que pode ser clicado para abaixar sua mão.
-Enquanto o botão estiver na situação de "Mão Levantada" tera um icone de uma mão junto a imagem do participante e no painel da lista de participantes
+Enquanto o botão estiver na situação de "Mão Levantada" terá um icone de uma mão junto a imagem do participante e no painel da lista de participantes
 da reunião vai se formar uma lista com todas as mãos levantadas na ordem em que foram levantadas.
 
 Se o moderador estiver apresentando em outra guia, ele receberá uma notificação sonora quando alguém levantar a mão.
