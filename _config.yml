@@ -21,6 +21,7 @@ description: Pai, Dev, Professor e Empreendedor. O site tem como objetivo servir
 # List of links in the navigation bar
 navbar-links:
   Sobre: "aboutme"
+  Calendário: "calendar"
   Disciplinas:
     - Programação Web: "dpw20201"
     - Programação Orientada a Objetos : "doo20201"
