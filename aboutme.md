@@ -41,6 +41,6 @@ Em que posso te ajudar?
 - 2009 - SCRUM MASTER - Scrum Aliance
 
 # VOLUNTÁRIO
-- [Java Bahia - Grupo de Usuarios] (javabahia.github.io)
+- [Java Bahia - Grupo de Usuarios](javabahia.github.io)
 - [LIGA DO BEM](aligadobem.org)
 - [Projeto Cinematografo Saladearte](cinematografo.art.br)
