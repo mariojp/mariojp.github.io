@@ -7,6 +7,7 @@ subtitle: calendario 2021.1
 # UCSAL CALENDÁRIO 2021.1
 
 Calendário disponivel em formato Mensal ou Timeline. 
+- [Visualização em outros Formatos](https://www.notion.so/b02860f7340f4f1b90286ebbcde3d4e0?v=cd7bbf59907a46a38060aa84e6923d9e)
 
 |Atividade|Data                         |
 |---------|-----------------------------|
@@ -35,4 +36,3 @@ Calendário disponivel em formato Mensal ou Timeline.
 |Notas AVII|Jun 22, 2021                 |
 |Feriado Corpus Christi|Jun 3, 2021                  |
 
-- [Visualização] (https://www.notion.so/b02860f7340f4f1b90286ebbcde3d4e0?v=cd7bbf59907a46a38060aa84e6923d9e)
