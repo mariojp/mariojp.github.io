@@ -97,7 +97,9 @@ Use o editor de sua preferencia
 |- css \ app.css
 |- js \ app.js
 ```
+
 Conteudo do arquivo HTML:
+
 ```html
 <!doctype html>
 <html lang="pt-BR">
@@ -114,6 +116,8 @@ Conteudo do arquivo HTML:
 </body>
 </html>
 ```
+
+Execute no console: 
 
 ```console
 # Apresenta a situação do diretório de trabalho em relação ao repo
@@ -144,6 +148,8 @@ Altere o conteudo no arquivo index.html dentro da tag <body> ... </body>:
     </header>
 ```
 
+Execute no console: 
+
 ```console
 # Apresenta a situação do diretório de trabalho em relação ao repo
 git status
@@ -166,8 +172,9 @@ Crie um arquivo .gitignore com o conteudo. Lista de arquivos que devem ser ignor
 Conteudo do .gitignore:
 ```
 *.class
-
 ```
+
+Execute no console: 
 
 ```console
 # Apresenta a situação do diretório de trabalho em relação ao repo
@@ -185,6 +192,8 @@ git status
 
 
 ## Tag Adcionando uma tag v1.0
+
+Execute no console: 
 
 ```console
 
@@ -208,6 +217,8 @@ Adicione ao index.html dentro do <body>
     </footer>
 
 ```
+
+Execute no console: 
 
 ```console
 # Apresenta a situação do diretório de trabalho em relação ao repo
@@ -248,6 +259,8 @@ Ainda na brach main adicione ao app.css:
   }
 ```
 
+Execute no console: 
+
 ```console
 # Apresenta a situação do diretório de trabalho em relação ao repo
 git status
@@ -281,6 +294,8 @@ Na brach sidebar adicione ao index.html dentro da   <div class="container"> e de
 </aside>
 
 ```
+
+Execute no console: 
 
 ```console
 # Apresenta a situação do diretório de trabalho em relação ao repo
@@ -329,6 +344,8 @@ Altere o arquivo index.html na tag footer
 </footer>
 
 ```
+
+Execute no console: 
 
 ```console
 
@@ -421,6 +438,8 @@ Altere o index.html no header
 </header>
 ```
 
+Execute no console: 
+
 ```console
 # adiciona todos os arquivos modificados no stage index para preparar o commit
 git add .
@@ -446,6 +465,8 @@ Altere o index.html no header
   <h1>Banda Eva<h1>
 </header>
 ```
+
+Execute no console: 
 
 ```console
 # adiciona todos os arquivos modificados no stage index para preparar o commit
@@ -483,12 +504,15 @@ Edite o arquivo index.html:
 >>>>>>> header-update
 </header>
 ```
-É preciso apagar todos indicadores do merge e o conteudo que voce não deseja que continue
 
+É preciso apagar todos indicadores do merge e o conteudo que voce não deseja que continue
+```
 <<<<<<< HEAD
 =======
 >>>>>>> header-update
+```
 
+Execute no console: 
 
 ```console
 
