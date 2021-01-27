@@ -1,23 +1,23 @@
 define([], function () {
 
   var free = {
-    title: 'Free Explore',
+    title: 'Repo Local',
     key: 'free',
-    message: 'Have fun!',
+    message: 'Execute os comandos!',
     commitData: [
-        {id: 'e137e9b', tags: ['master'], message: 'first commit'},
+        {id: 'e137e9b', tags: ['main'], message: 'primeiro commit'},
     ]
   }
 
   var freeWithRemote = {
-    title: 'Free Explore with Remote',
+    title: 'Repo Local com Repo Remoto',
     key: 'free-remote',
-    message: 'Have fun!',
+    message: 'Execute os comandos!',
     commitData: [
-        {id: 'e137e9b', tags: ['master', 'origin/master'], message: 'first commit'},
+        {id: 'e137e9b', tags: ['main', 'origin/main'], message: 'primeiro commit'},
     ],
     originData: [
-        {id: 'e137e9b', tags: ['master'], message: 'first commit'}
+        {id: 'e137e9b', tags: ['main'], message: 'primeiro commit'}
     ]
   }
 
@@ -357,6 +357,9 @@ define([], function () {
   }
 
   return [
-    free, freeWithRemote, upstreamChanges, rewrittenHistory, revert, cherryPick
+    free, freeWithRemote
   ]
+  // return [
+  //   free, freeWithRemote, upstreamChanges, rewrittenHistory, revert, cherryPick
+  // ]
 })

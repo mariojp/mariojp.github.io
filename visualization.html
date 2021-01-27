@@ -15,7 +15,7 @@
 </head>
 <body>
 
-<div id="ExplainGitZen-Container" style="display:none">
+<div id="ExplainGitInicial-Container" style="display:none">
     <div class="playground-container">
       <pre id='last-command' style='display: none;'></pre>
     </div>
@@ -106,7 +106,7 @@ require(['explaingit', 'demos'], function (explainGit, demos) {
       }
 
       var initial = Object.assign(copyDemo(lastDemo), {
-        name: 'Zen',
+        name: 'Inicial',
         height: '100%',
         initialMessage: lastDemo.message,
         undoHistory: savedState,
@@ -118,7 +118,7 @@ require(['explaingit', 'demos'], function (explainGit, demos) {
     }
 
     window.resetVis = function () {
-      if (confirm('This will reset your visualization. Are you sure?')) {
+      if (confirm('Isso vai reinicializar sua visualização. Você tem certeza?')) {
         clean()
         open()
       }
