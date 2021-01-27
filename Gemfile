@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+gem "nokogiri", ">= 1.11.0"
+
 gem "github-pages", '197', group: :jekyll_plugins
 
 gem "jekyll-display-medium-posts", group: :jekyll_plugins
