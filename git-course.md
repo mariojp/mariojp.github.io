@@ -7,10 +7,10 @@ subtitle: Minicurso git e git hub 2021
 # COMANDOS
 ```console
 pwd
-# mostra o caminho para o seu diretorio atual
+# mostra o caminho para o seu diretório atual
 
 ls
-# lista arquivos e diretorios
+# lista arquivos e diretórios
 # ls -a lista arquivos ocultos
 
 mkdir
@@ -18,16 +18,16 @@ mkdir
 
 cd
 # acessa diretório
-# cd .. volta para o diretorio anterior
+# cd .. volta para o diretório anterior
 
 rm
 # remove arquivo ou diretório (use -R para remover de forma recursiva)
 
 git init
-# inicializa um repositorio
+# inicializa um repositório
 
 git status
-# mostra a situação do seu repositorio
+# mostra a situação do seu repositório
 
 git log
 # Exibe a uma lista de commits executados
@@ -55,7 +55,7 @@ $git diff
 
 # EXERCÍCIOS:
 
-## Inicializando repositorio
+## Inicializando repositório
 ```console
 # cria diretório git-course
 mkdir git-course
@@ -69,7 +69,7 @@ mkdir new-git-project
 # acessa diretório new-git-project
 cd new-git-project
 
-# inicializa repositorio
+# inicializa repositório
 git init
 
 # Resultado: 
@@ -90,7 +90,7 @@ Crie um arquivo index.html
 Crie um diretório css e dentro o arquivo app.css
 Crie um diretório js e dentro um arquivo app.js
 
-Use o editor de sua preferencia
+Use o editor de sua preferência
 
 ```console
 |- index.html
@@ -98,7 +98,7 @@ Use o editor de sua preferencia
 |- js \ app.js
 ```
 
-Conteudo do arquivo HTML:
+Conteúdo do arquivo HTML:
 
 ```html
 <!doctype html>
@@ -132,7 +132,7 @@ git add app.ccs app.js
 # Apresenta a situação do diretório de trabalho em relação ao repo
 git status
 
-# envia o commit da stage index ao repositorio (local) 
+# envia o commit da stage index ao repositório (local) 
 git commit -m "adiciona arquivos iniciais"
 
 # Apresenta a situação do diretório de trabalho em relação ao repo
@@ -141,7 +141,7 @@ git status
 
 ## Segundo Commit altera o index.html:
 
-Altere o conteudo no arquivo index.html dentro da tag <body> ... </body>:
+Altere o conteúdo no arquivo index.html dentro da tag <body> ... </body>:
 ```html
     <header>
         <h1> O nome do seu blog </h1>
@@ -157,7 +157,7 @@ git status
 # adiciona todos os arquivos modificados no stage index para preparar o commit
 git add .
 
-# envia o commit da stage index ao repositorio (local) 
+# envia o commit da stage index ao repositório (local) 
 git commit -m "altera o index.html adiciona o header"
 
 # Apresenta a situação do diretório de trabalho em relação ao repo
@@ -166,10 +166,10 @@ git status
 
 ## Terceiro Commit gitignore:
 
-Crie um arquivo .gitignore com o conteudo. Lista de arquivos que devem ser ignorados pelo git.
+Crie um arquivo .gitignore com o conteúdo. Lista de arquivos que devem ser ignorados pelo git.
 ##### ATENÇÃO o ponto(.) na frente do nome do arquivo é obrigatorio e torna ele oculto.
 
-Conteudo do .gitignore:
+Conteúdo do .gitignore:
 ```
 *.class
 ```
@@ -183,7 +183,7 @@ git status
 # adiciona todos os arquivos modificados no stage index para preparar o commit
 git add .
 
-# envia o commit da stage index ao repositorio (local) 
+# envia o commit da stage index ao repositório (local) 
 git commit -m "adiciona gitignore"
 
 # Apresenta a situação do diretório de trabalho em relação ao repo
@@ -227,7 +227,7 @@ git status
 # adiciona todos os arquivos modificados no stage index para preparar o commit
 git add .
 
-# envia o commit da stage index ao repositorio (local) 
+# envia o commit da stage index ao repositório (local) 
 git commit -m "altera o index.html adiciona o main"
 
 # Apresenta a situação do diretório de trabalho em relação ao repo
@@ -268,7 +268,7 @@ git status
 # adiciona todos os arquivos modificados no stage index para preparar o commit
 git add .
 
-# envia o commit da stage index ao repositorio (local) 
+# envia o commit da stage index ao repositório (local) 
 git commit -m "css atualiza cor"
 
 # mostra a lista de commits em uma linha cada 
@@ -304,7 +304,7 @@ git status
 # adiciona todos os arquivos modificados no stage index para preparar o commit
 git add .
 
-# envia o commit da stage index ao repositorio (local) 
+# envia o commit da stage index ao repositório (local) 
 git commit -m "atualiza sidebar"
 
 # mostra a lista de commits em uma linha cada 
@@ -352,7 +352,7 @@ Execute no console:
 # adiciona todos os arquivos modificados no stage index para preparar o commit
 git add .
 
-# envia o commit da stage index ao repositorio (local) 
+# envia o commit da stage index ao repositório (local) 
 git commit -m "atualiza footer"
 
 # mostra a lista de commits em uma linha cada 
@@ -444,7 +444,7 @@ Execute no console:
 # adiciona todos os arquivos modificados no stage index para preparar o commit
 git add .
 
-# envia o commit da stage index ao repositorio (local) 
+# envia o commit da stage index ao repositório (local) 
 git commit -m "atualiza header"
 
 # mostra a lista de commits em uma linha cada 
@@ -472,7 +472,7 @@ Execute no console:
 # adiciona todos os arquivos modificados no stage index para preparar o commit
 git add .
 
-# envia o commit da stage index ao repositorio (local) 
+# envia o commit da stage index ao repositório (local) 
 git commit -m "atualiza main"
 
 # mostra a lista de commits em uma linha cada 
@@ -488,7 +488,7 @@ git merge header-update
 # CONFLICT (content) ... 
 # Automatic merge failed ...
 
-# verifica a situação do seu repositorio
+# verifica a situação do seu repositório
 git status
 # vão ser apresentados os arquivo onde há conflitos a serem corrigidos
 ```
@@ -505,7 +505,7 @@ Edite o arquivo index.html:
 </header>
 ```
 
-É preciso apagar todos indicadores do merge e o conteudo que voce não deseja que continue
+É preciso apagar todos indicadores do merge e o conteúdo que voce não deseja que continue
 ```
 <<<<<<< HEAD
 =======
