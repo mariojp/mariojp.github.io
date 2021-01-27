@@ -53,7 +53,7 @@ $git diff
 ```
 
 
-# EXERCICIOS:
+# EXERCÍCIOS:
 
 ## Inicializando repositorio
 ```console
