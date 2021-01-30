@@ -84,7 +84,7 @@ body {
     
   <body class="text-center">
     <form class="form-signin">
-  <h1 class="h3 mb-3 font-weight-normal">RESULTADO CMS</h1>
+  <h1 class="h3 mb-3 font-weight-normal">RESULTADO COLEGIO MILITAR DE SALVADOR 2019</h1>
   <label for="matricula" class="sr-only">Matricula</label>
   <input type="text" id="matricula" class="form-control" placeholder="Matricula" required autofocus>
   <button id="enviar" onclick="resultado()" class="btn btn-lg btn-primary btn-block" type="button">Enviar</button>
@@ -113,7 +113,7 @@ body {
       $("#cardresult").hide();
 
       function resultado(){
-         console.log($('#matricula').val());
+         //console.log($('#matricula').val());
         fetch('https://cmssa.herokuapp.com/resultados/'+$('#matricula').val())
           .then((response) => {
             return response.json()
@@ -133,6 +133,7 @@ body {
           })
       }
     
+      resultado();
     </script>
   </body>
 </html>
