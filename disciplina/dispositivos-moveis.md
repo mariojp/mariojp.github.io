@@ -1,6 +1,6 @@
 ---
 layout: disciplina
-title: Programão para Dispositivos Móveis
+title: Programação para Dispositivos Móveis
 subtitle: PDM - 2021-1
 published: true
 ---
