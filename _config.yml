@@ -23,11 +23,11 @@ navbar-links:
   Sobre: "aboutme"
   Calendário: "calendar"
   Disciplinas:
-    - WEB: "dpw20201"
-    - Orientação a Objetos : "doo20201"
-    - Orientação a Objetos Avançada : "dooa20201"
+    - WEB: "disicplina/programacao-web"
+    - Orientação a Objetos : "disicplina/orientacao-a-objetos"
+    - Orientação a Objetos Avançada : "disicplina/orientacao-a-objetos-avancada"
     - Dispositivos Moveis: "disicplina/dispositivos-moveis"
-    - Projeto Integrador : "dpi20201"
+    - Projeto Integrador : "disicplina/projeto-integrador"
 
 
   #Author's home: "http://deanattali.com"
