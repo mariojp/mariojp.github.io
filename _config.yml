@@ -23,10 +23,10 @@ navbar-links:
   Sobre: "aboutme"
   Calendário: "calendar"
   Disciplinas:
-    - Programação Web: "dpw20201"
-    - Programação Orientada a Objetos : "doo20201"
-    - Programação Orientada a Objetos Avançada : "dooa20201"
-    - Programação Para Dispositivos Moveis: "_site/dispositivos-moveis.md"
+    - WEB: "dpw20201"
+    - Orientação a Objetos : "doo20201"
+    - Orientação a Objetos Avançada : "dooa20201"
+    - Dispositivos Moveis: "disicplina/dispositivos-moveis"
     - Projeto Integrador : "dpi20201"
 
 
