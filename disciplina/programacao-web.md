@@ -19,7 +19,6 @@ Esta disciplina visa apresentar os conceitos necessários para o desenvolvimento
 # MATERIAL
 - [Guerra dos Navegadores (Browser Wars) ](https://www.youtube.com/watch?v=PAIfVIl4onM)
 - [Guia rapido java v2](https://www.slideshare.net/mariojp/guia-rapido-java-v2)
-- [Guerra dos Navegadores (Browser Wars) ](https://www.youtube.com/watch?v=PAIfVIl4onM)
 - [Apostila FJ21 ](http://www.caelum.com.br/download/caelum-java-web-fj21.pdf)
 
 # PROGRAMAS
