@@ -22,7 +22,6 @@ description: Pai, Dev, Professor e Empreendedor. O site tem como objetivo servir
 navbar-links:
   SOBRE: "aboutme"
   GIT-CURSO: "git-course"
-  GIT-TOOL:"visualization.html" 
   CALENDÁRIO: "calendar"
   DISCIPLINAS:
     - Programação WEB: "disciplina/programacao-web"
