@@ -20,10 +20,11 @@ description: Pai, Dev, Professor e Empreendedor. O site tem como objetivo servir
 
 # List of links in the navigation bar
 navbar-links:
-  Sobre: "aboutme"
-  Calendário: "calendar"
-  Disciplinas:
-    - WEB: "disciplina/programacao-web"
+  SOBRE: "aboutme"
+  GIT-TOOL:"visualization.html" 
+  CALENDÁRIO: "calendar"
+  DISCIPLINAS:
+    - Programação WEB: "disciplina/programacao-web"
     - Orientação a Objetos : "disciplina/orientacao-a-objetos"
     - Orientação a Objetos Avançada : "disciplina/orientacao-a-objetos-avancada"
     - Dispositivos Moveis: "disciplina/dispositivos-moveis"
