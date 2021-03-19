@@ -14,7 +14,7 @@ subtitle: PW - 2021.1
 Esta disciplina visa apresentar os conceitos necessários para o desenvolvimento de aplicações web, frameworks utilizados, o padrão arquitetural Model View Controller (MVC), JSP, JSTL e AJAX, persistência no banco de dados com JDBC e JPA.
 
 # REPO
-- WEB = SERVLETS, JSP, TOMCAT 10, ECLIPSE (https://github.com/mariojp/projeto-web)
+- [WEB = SERVLETS, JSP, TOMCAT 10, ECLIPSE](https://github.com/mariojp/projeto-web)
 
 # MATERIAL
 - [Guerra dos Navegadores (Browser Wars) ](https://www.youtube.com/watch?v=PAIfVIl4onM)
