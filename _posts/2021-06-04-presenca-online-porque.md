@@ -12,26 +12,26 @@ Porque você está...
 
 - procurando emprego?
 - tentado impressionar às pessoas que contratam?
-- Esta preocupado em saber como você está sendo visto online?
+- preocupado em saber como você está sendo visto online?
 
 Existe uma coleção de modelos, guias e recursos para melhorar sua presença online e causar uma ótima primeira impressão.
 
-## Por que prestar atenção à sua presença online?
+## Por que prestar atenção a sua presença online?
 
-1. As pessoas vão pesquisar você no Google. Geralmente é a primeira coisa vão fazer e essa será a primeira impressão que vão ter. Certifique-se de que isso faz você ficar bem.
-2. Controle o que as pessoas devem sobre você antes de conhecer o pessoalmente (mesmo em uma reunião online). Seu trabalho, pensamentos e hobbies estão online, mas você pode controlar quais deles aparecem ou não, e talvez o mais importante, quais aparecem primeiro.
+1. As pessoas vão pesquisar você no Google. Geralmente é a primeira coisa que vão fazer e essa será a primeira impressão que vão ter. Certifique-se de que isso faz você ficar bem.
+2. Controle o que as pessoas devem saber sobre você antes de conhecê-lo pessoalmente (mesmo em uma reunião online). Seu trabalho, pensamentos e hobbies estão online, mas você pode controlar quais deles aparecem ou não. E o mais importante, quais aparecem primeiro.
 3. Apresente o que faz ou fez de melhor. Dê uma olhada em você através dos olhos da internet e melhore o que você vê. Ajude o Google a mostrar o que você tem de melhor.
 
 ## Para começar faça um balanço do que está disponível
-Google você mesmo. Veja o que aparece. Tenha uma ideia de como as pessoas estão vendo o seu verdadeiro eu.
+Procure por voce no Google. Veja o que aparece. Tenha uma ideia de como as pessoas estão vendo o seu verdadeiro eu.
 
-## Ajude o google a exibir quem é voçe
-Trabalhe de trás para frente. Defina que tipo de imagem quer passar e tipo de impressão precisa causar.
+## Trabalhe de trás para frente
+Ajude o google a exibir quem é você. Defina que tipo de imagem quer passar e o tipo de impressão que deseja causar.
 
 ## Mantenha atualizada a sua presença online
-Edite e atualize sua mídia social, GitHub e site pessoal.
+Edite e atualize o sites de mídia social (facebook, instagram ... ), GitHub e site pessoal.
 
-## Indo para outro nivel
+## Indo para outro nível
 Adicione conteúdo para atrair principalmente quem interessa.
 
 
