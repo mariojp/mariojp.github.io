@@ -1,7 +1,7 @@
 ---
   layout: post
   title: Por que ter alguma presença online?
-  subtitle: Git-course 2021
+  subtitle: Apresente quem voce é online
   tags: [online, presença, dev]
 ---
 
