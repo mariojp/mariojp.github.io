@@ -14,7 +14,7 @@ Porque você está...
 - tentado impressionar às pessoas que contratam?
 - Esta preocupado em saber como você está sendo visto online?
 
-Existe uma coleção de modelos, guias e recursos para melhorar sua presença online e causae uma ótima primeira impressão.
+Existe uma coleção de modelos, guias e recursos para melhorar sua presença online e causar uma ótima primeira impressão.
 
 ## Por que prestar atenção à sua presença online?
 
