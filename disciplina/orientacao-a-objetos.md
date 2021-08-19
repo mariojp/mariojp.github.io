@@ -14,7 +14,7 @@ subtitle: POO - 2021.1
 O paradigma de orientação a objetos, histórico e conceitos. Conceitos de linguagem de programação Orientada a Objetos, teoria dos tipos, abstração, classificação encapsulamento, herança, polimorfismo. Adotando uma abordagem pratica.
 
 # Repositórios
-- [github poo-2021-1](https://github.com/mariojp/poo-2021-1)
+- 
 
 # MATERIAL
 - [Apostila FJ11 ](https://www.caelum.com.br/apostila/apostila-java-orientacao-objetos.pdf)
