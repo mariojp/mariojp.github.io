@@ -12,6 +12,7 @@ Duration: 0:10:00
 
 Plain Text followed by green and yellow info boxes
 
+docker container run -it -v $(pwd):/app bpetetot/claat export sample-codelab.md
 
 ## Section 2
 Duration: 0:05:00
