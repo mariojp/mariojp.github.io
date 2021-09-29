@@ -1,0 +1,24 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2021-09-29T00:14:34Z",
+  "id": "sample-codelab",
+  "duration": 15,
+  "title": "Title of codelab",
+  "authors": "Mario Jorge Pereira",
+  "summary": "Write a codelab with Google codelab tool suite",
+  "source": "sample-codelab.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "codelab"
+  ],
+  "tags": [
+    "beginner"
+  ],
+  "url": "sample-codelab"
+}
