@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem "nokogiri", ">= 1.13.2"
+gem "nokogiri", ">= 1.13.4"
 
 
 gem "github-pages", '197', group: :jekyll_plugins
