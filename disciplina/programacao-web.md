@@ -6,18 +6,18 @@ subtitle: PW - 2021.1
 
 # INFORMAÇÕES
 
-- Professor: Mario Jorge Pereira <mario.pereira@pro.ucsal.br>
-- [Google Classroom](https://classroom.google.com/)
-- [Github Classroom](https://classroom.github.com/)
+- Professor: Mario Jorge Pereira <mario.pereira at pro dot ucsal dot br>
+# - [Google Classroom](https://classroom.google.com/)
+# - [Github Classroom](https://classroom.github.com/)
 
 # EMENTA
 Esta disciplina visa apresentar os conceitos necessários para o desenvolvimento de aplicações web, frameworks utilizados, o padrão arquitetural Model View Controller (MVC), JSP, JSTL e AJAX, persistência no banco de dados com JDBC e JPA.
 
-# REPO
-- [WEB = SERVLETS, JSP, TOMCAT 10, ECLIPSE](https://github.com/mariojp/projeto-web)
+# REPOS
+# - [WEB = SERVLETS, JSP, TOMCAT 10, ECLIPSE](https://github.com/mariojp/projeto-web)
 
 # MATERIAL
-- [Guerra dos Navegadores (Browser Wars) ](https://www.youtube.com/watch?v=PAIfVIl4onM)
+- [Guerra dos Navegadores (Browser Wars) ](/2023-02-13-gerradosnavegadores)
 - [Guia rapido java v2](https://www.slideshare.net/mariojp/guia-rapido-java-v2)
 - [Apostila FJ21 ](http://www.caelum.com.br/download/caelum-java-web-fj21.pdf)
 
