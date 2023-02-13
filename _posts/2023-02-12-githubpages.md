@@ -8,7 +8,12 @@ gh-badge: [markdown]
 comments: true
 ---
 
+
+GitHub Pages é uma plataforma gratuita que permite aos usuários hospedar sites estáticos diretamente do repositório do GitHub. 
+Aqui está um tutorial passo a passo para criar uma página usando GitHub Pages:
+
 # Parar publicar um site ou documentação com o GitHub Pages só precisa de 3 etapas:
+
 
 1. Crie um novo repositório ou use um repositório existente
 2. Envie um arquivo de Markdown através da interface da web ou pelo git commit.
