@@ -1,20 +1,24 @@
 ---
 layout: disciplina
 title: Programação WEB
-subtitle: PW - 2021.1
+subtitle: PW - 2023.1
 ---
 
 # INFORMAÇÕES
 
 - Professor: Mario Jorge Pereira <mario.pereira at pro dot ucsal dot br>
-# - [Google Classroom](https://classroom.google.com/)
-# - [Github Classroom](https://classroom.github.com/)
+
+<!-- [Google Classroom](https://classroom.google.com/) -->
+
+<!-- [Github Classroom](https://classroom.github.com/) -->
 
 # EMENTA
-Esta disciplina visa apresentar os conceitos necessários para o desenvolvimento de aplicações web, frameworks utilizados, o padrão arquitetural Model View Controller (MVC), JSP, JSTL e AJAX, persistência no banco de dados com JDBC e JPA.
+Esta disciplina visa apresentar os conceitos necessários para o desenvolvimento de aplicações web, frameworks utilizados, o padrão arquitetural Model View Controller (MVC), JSP, JSTL , persistência no banco de dados com JDBC e JPA.
 
 # REPOS
-# - [WEB = SERVLETS, JSP, TOMCAT 10, ECLIPSE](https://github.com/mariojp/projeto-web)
+
+<!-- [WEB = SERVLETS, JSP, TOMCAT 10, ECLIPSE](https://github.com/mariojp/projeto-web)-->
+
 
 # MATERIAL
 - [Guerra dos Navegadores (Browser Wars) ](/2023-02-13-gerradosnavegadores)
