@@ -21,7 +21,13 @@ Aqui está um tutorial passo a passo para criar uma página usando GitHub Pages:
 
 ## Usando HTML
 
-1. Clique em Novo Repositorio.
+1. Crie um repositório
+
+Vá para o GitHub e crie um novo repositório público chamado <username>.github.io, onde username é seu nome de usuário (ou nome da organização) no GitHub.
+
+Se a primeira parte do repositório não corresponder exatamente ao seu nome de usuário, não vai funcionar, verifique se esta examente igual.
+
+[Criar novo repositório](https://pages.github.com/images/user-repo@2x.png)
 
 2. Configure o repositorio. 
   + Escolha um nome
@@ -51,8 +57,7 @@ Aqui está um tutorial passo a passo para criar uma página usando GitHub Pages:
   + Opção Source
     + Selecione master branch pe o index estiver na raiz caso o nome do seu repositorio nomedousuario.github.io essa opção é obrigatoria
     
-![GitHub Pages](/githubpages.png)
-
+  
 ## Usando o Jekill
 
 1. Clique em Novo Repositorio.
