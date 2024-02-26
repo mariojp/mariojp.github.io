@@ -144,3 +144,29 @@ if (numeros.contains(2)) {
 O JCF oferece uma ampla gama de estruturas de dados e algoritmos genéricos para facilitar a programação em Java, 
 permitindo que desenvolvedores escolham as coleções mais adequadas para suas necessidades específicas.
 
+Métodos de Fábrica Estáticos para Coleções: Introduzidos para List, Set, Map e Map.Entry, esses métodos permitem criar coleções imutáveis de maneira mais concisa.
+
+Exemplo para List:
+```java
+List<String> friends = List.of("Alice", "Bob", "Charlie");
+```
+Exemplo para Set:
+```java
+Set<String> countries = Set.of("Brazil", "France", "Japan");
+```
+Exemplo para Map:
+```java
+Map<String, Integer> ageOfFriends = Map.of("Alice", 30, "Bob", 25, "Charlie", 22);
+```
+Melhorias Locais na Inferência de Tipo com var: Embora não seja uma mudança direta na API de coleções, o uso de var pode simplificar a declaração de variáveis para coleções.
+```java
+var list = List.of("Java", "Kotlin", "Scala");
+```
+Método stream() em Map: Facilita a criação de streams diretamente de entradas de mapas, sem a necessidade de usar entrySet() ou keySet().
+
+Exemplo:
+```java
+Map<String, Integer> map = Map.of("a", 1, "b", 2, "c", 3);
+map.stream()
+   .forEach(entry -> System.out.println(entry.getKey() + ":" + entry.getValue()));
+```
