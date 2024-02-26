@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: disciplina
 title: JAVA BOOK
 subtitle: MARIO JORGE PEREIRA
 published: true
