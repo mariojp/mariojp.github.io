@@ -865,7 +865,7 @@ function(_yargs, d3, demos) {
 
       if (path[0] === 'branch') {
         if (path[2] === 'rebase') {
-          this.rebase[path[1]] = args.pop();
+          this.rebaseConfig[path[1]] = args.pop();
         }
       }
     },
