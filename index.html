@@ -1,24 +1,75 @@
 ---
 layout: page
-title: MARIOJP SITE
-subtitle: Dev, professor, pai e empreendedor.
+title: Mario Jorge Pereira
+subtitle: Software, dados e educação para transformar problemas reais em soluções digitais úteis.
 use-site-title: true
 ---
+
+<section class="home-intro">
+  <p class="lead">
+    Sou mestre em Engenharia de Sistemas e Produtos, desenvolvedor de software e professor universitário.
+    Atuo com engenharia de software, governança de dados, inteligência artificial aplicada e educação tecnológica.
+  </p>
+
+  <p>
+    Transformo necessidades reais em produtos digitais, sistemas, processos e conteúdos que apoiam pessoas,
+    organizações e a formação de novos profissionais de tecnologia.
+  </p>
+
+  <p>
+    <a class="btn btn-primary" href="{{ '/aboutme/' | relative_url }}">Conheça minha trajetória</a>
+    <a class="btn btn-default" href="https://github.com/mariojp">Veja meus projetos no GitHub</a>
+  </p>
+</section>
+
+<hr>
+
+<section>
+  <h2>Projetos em destaque</h2>
+
+  <div class="row">
+    <div class="col-md-4">
+      <h3><a href="https://idojo.com.br/">iDojo</a></h3>
+      <p>Plataforma para gestão de academias de artes marciais, com alunos, turmas, graduações, frequência e controle financeiro.</p>
+    </div>
+
+    <div class="col-md-4">
+      <h3><a href="https://saladearte.art.br/">Circuito Sala de Arte</a></h3>
+      <p>Solução Web para publicação e atualização da programação cinematográfica, com filmes, horários, salas e informações das sessões.</p>
+    </div>
+
+    <div class="col-md-4">
+      <h3>Sophiadata</h3>
+      <p>Produto tecnológico voltado à governança e à publicação de dados governamentais abertos, desenvolvido no mestrado profissional.</p>
+    </div>
+  </div>
+</section>
+
+<hr>
+
+<section>
+  <h2>Áreas de atuação</h2>
+  <p><strong>Engenharia de software</strong> • <strong>Governança de dados</strong> • <strong>IA aplicada</strong> • <strong>Desenvolvimento Web e Mobile</strong> • <strong>Educação tecnológica</strong></p>
+</section>
+
+<hr>
+
+<h2>Artigos recentes</h2>
 
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
     <a href="{{ post.url | relative_url }}">
-	  <h2 class="post-title">{{ post.title }}</h2>
+      <h2 class="post-title">{{ post.title }}</h2>
 
-	  {% if post.subtitle %}
-	  <h3 class="post-subtitle">
-	    {{ post.subtitle }}
-	  </h3>
-	  {% endif %}
+      {% if post.subtitle %}
+      <h3 class="post-subtitle">
+        {{ post.subtitle }}
+      </h3>
+      {% endif %}
     </a>
 
-    <p class="post-meta"> 
+    <p class="post-meta">
       Publicado em {{ post.date | date: site.date_format }}
     </p>
 
@@ -26,7 +77,7 @@ use-site-title: true
       {% if post.image %}
       <div class="post-image">
         <a href="{{ post.url | relative_url }}">
-          <img src="{{ post.image | relative_url }}">
+          <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
         </a>
       </div>
       {% endif %}
@@ -51,8 +102,7 @@ use-site-title: true
       {% endif %}
     </div>
     {% endif %}
-
-   </article>
+  </article>
   {% endfor %}
 </div>
 
